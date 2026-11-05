@@ -31,7 +31,6 @@ Changes to ownership require a two-approver review from the Platform Reliability
 - [ ] **notifications/src/templates/localisation.py:91** - Localise notification templates for new markets (ref: #20)
 - [ ] **platform-jobs/src/scheduler/retry_policy.ts:238** - Apply jittered exponential backoff to job retries (ref: #22)
 
-## Release cadence
 
 Shared platform services ship on a two-week train. Code freeze is Tuesday 18:00 UTC of
 the second week; production rollout starts Wednesday 09:00 UTC after the change advisory
